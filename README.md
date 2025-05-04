@@ -30,7 +30,7 @@ Once installed, open OBS, go to **Tools**, and you'll see **DistroAV Configurati
 
 Open the configuration and change only the output name. Set it to `OBS`.
 
-![Set output name](https://i.ibb.co/ymKKcpJ/image.png)
+![Set output name](https://i.ibb.co/DgC2GMV0/image.png)
 
 Now NDI is configured in OBS. No need to press Record — just having a scene and a source is enough.
 
