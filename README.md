@@ -1,5 +1,3 @@
-All the necessary elements to download are in the `sources.zip` file to ensure you're using the same versions. However, you can also download them from the official repositories linked below.
-
 The OBS plugin to use NDI is called **DistroAV**. We'll refer to it as such from now on.
 
 ## OBS
