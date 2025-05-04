@@ -26,7 +26,7 @@ Now download the OBS plugin that handles the NDI connection:
 
 Once installed, open OBS, go to **Tools**, and you'll see **DistroAV Configuration**.
 
-![DistroAV in Tools menu](https://i.ibb.co/WvpxsbL/image.png)
+![DistroAV in Tools menu](https://i.ibb.co/BVds5k0J/image.png)
 
 Open the configuration and change only the output name. Set it to `OBS`.
 
