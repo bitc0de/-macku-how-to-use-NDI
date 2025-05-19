@@ -39,7 +39,7 @@ Restart OBS to correctly save the configuration and start NDI.
 ## GETTING THE IMAGE FROM ANOTHER PC ON THE SAME LOCAL NETWORK
 
 To retrieve the image in real-time, we'll use a Python script.  
-Make sure to install the `pyindi` dependency (I'm using version 0.0.1).
+Make sure to install `ndi-python`
 
 Here is the commented code:
 
